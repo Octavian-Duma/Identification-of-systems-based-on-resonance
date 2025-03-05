@@ -1,1 +1,1 @@
-"# Identification-of-systems-based-on-resonance" 
+Identification-of-systems-based-on-resonance
