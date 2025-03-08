@@ -1,4 +1,4 @@
-##Identification of systems based on resonance
+#Identification of systems based on resonance
 
 I processed a data set from a digital oscilloscope applying non-parametric methods and exploiting the resonance phenomenon to extract relevant information.
 I estimated the Bode Diagram by experimental methods, selecting representative points from the signal areas.
